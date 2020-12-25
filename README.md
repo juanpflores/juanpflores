@@ -2,13 +2,13 @@
 
 
 <div align="center">
-  <img src="..\juanpflores\assets\profile.gif">
+  <img src="https://github.com/juanpflores/juanpflores/blob/main/assets/profile.gif">
 </div>
 
 <h2><img src="https://thumbs.gfycat.com/AcrobaticMatureGazelle.webp" alt="computer" width="50"> About me </h2>
 
 <div >
-  <img src="..\juanpflores\assets\happy-juanpa.gif" align="right" width="300">
+  <img src="https://github.com/juanpflores/juanpflores/blob/main/assets/happy-juanpa.gif" align="right" width="300">
 
 <ul>
   <li><b>👤 Name: </b> Juan Pablo Flores</li>
