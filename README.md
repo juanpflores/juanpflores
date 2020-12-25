@@ -1,22 +1,40 @@
-### Hola friend! 
-I'm Juan Pablo (aka Juan Pa) and I'm a Program Manager at GitHub
-<!--
-**juanpflores/juanpflores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<h1><img src="https://thumbs.gfycat.com/HeartfeltLargeBobolink.webp" alt="computer" width="50"> Oh! Hi Human... or Web Scrapper</h1>
 
 
+<div align="center">
+  <img src="..\juanpflores\assets\profile.gif">
+</div>
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+<h2><img src="https://thumbs.gfycat.com/AcrobaticMatureGazelle.webp" alt="computer" width="50"> About me </h2>
 
+<div >
+  <img src="..\juanpflores\assets\happy-juanpa.gif" align="right" width="300">
 
--->
-- 🔭 I’m currently coding automation projects.
-- 🌱 I’m currently learning ...
-- 📚 I’m reading 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact:
-  - I come with a user's guide! 
+<ul>
+  <li><b>👤 Name: </b> Juan Pablo Flores</li>
+  <li><b>😄 Pronouns:</b>  He/Him</li>
+  <li><b>📍 Location:</b> Mexico City 🇲</li>
+  <li><b>💼 Job: </b>Program Manager @ <a href="github.com">GitHub</a></li>
+  <li><b>📣 Languages:</b> English & Spanish</li>
+</ul>
+
+<p>I'm Juan Pablo (<i>aka Juan Pa</i>) a computer engineer diving into the world of management. I'm a Program Manager at the GitHub Education Team, 
+  where I support student leaders to build and grow local technical communities in their schools in the <a href="https://education.github.com/experts">🚩 GitHub Campus Experts Program</a>. I'm passionate about building opportunities for students, bridges
+   between different communities, and helping people from diverse backgrounds to code.
+</p>
+
+</div>
+
+<img src="https://img.shields.io/badge/juanpflores_%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white">
+
+<h2><img src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" alt="computer" width="50"> I'm currently ...</h2>
+
+- 🔭 coding automation projects & relaunching my personal website.
+- 🌱 learning Docker & Shell scripting (Both are SO COOL!)
+- 📚 Reading: **"The 15 Commitments of Conscious Leadership"**
+- 🎮 playing Elder Scrolls Online ⚔, Cyberpunk 2077 🤖 and Resident Evil 🧟
+
+<h2>Random</h2>
+
+- 🔬 I have worked on a [couple of papers](https://scholar.google.com/citations?user=QHIRjGUAAAAJ&hl=es&authuser=1)
+- 📝 Working with me? Read the [Juan Pa's User Manual](https://link)
