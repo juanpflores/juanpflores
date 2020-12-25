@@ -37,4 +37,4 @@
 <h2>Random</h2>
 
 - 🔬 I have worked on a [couple of papers](https://scholar.google.com/citations?user=QHIRjGUAAAAJ&hl=es&authuser=1)
-- 📝 Working with me? Read the [Juan Pa's User Manual](https://link)
+<!-- - 📝 Working with me? Read the [Juan Pa's User Manual](https://link) -->
