@@ -6,7 +6,7 @@
 <ul>
   <li><b>👤 Name: </b> Juan Pablo Flores</li>
   <li><b>😄 Pronouns:</b>  He/Him</li>
-  <li><b>📍 Location:</b> Mexico City 🇲</li>
+  <li><b>📍 Location:</b> Mexico City 🇲🇽</li>
   <li><b>💼 Job: </b>Program Manager @ <a href="github.com">GitHub</a></li>
   <li><b>📣 Languages:</b> English & Spanish</li>
 </ul>
