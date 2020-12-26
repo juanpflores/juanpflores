@@ -1,10 +1,3 @@
-<h1><img src="https://thumbs.gfycat.com/HeartfeltLargeBobolink.webp" alt="computer" width="50"> Oh! Hi Human... or Web Scrapper</h1>
-
-
-<div align="center">
-  <img src="https://github.com/juanpflores/juanpflores/blob/main/assets/profile.gif">
-</div>
-
 <h2><img src="https://thumbs.gfycat.com/AcrobaticMatureGazelle.webp" alt="computer" width="80"> About me </h2>
 
 <div >
