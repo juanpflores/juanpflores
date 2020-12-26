@@ -5,7 +5,7 @@
   <img src="https://github.com/juanpflores/juanpflores/blob/main/assets/profile.gif">
 </div>
 
-<h2><img src="https://thumbs.gfycat.com/AcrobaticMatureGazelle.webp" alt="computer" width="50"> About me </h2>
+<h2><img src="https://thumbs.gfycat.com/AcrobaticMatureGazelle.webp" alt="computer" width="80"> About me </h2>
 
 <div >
   <img src="https://github.com/juanpflores/juanpflores/blob/main/assets/happy-juanpa.gif" align="right" width="300">
@@ -27,7 +27,7 @@
 
 <img src="https://img.shields.io/badge/juanpflores_%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white">
 
-<h2><img src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" alt="computer" width="50"> I'm currently ...</h2>
+<h2><img src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" alt="computer" width="80"> I'm currently ...</h2>
 
 - 🔭 coding automation projects & relaunching my personal website.
 - 🌱 learning Docker & Shell scripting (Both are SO COOL!)
