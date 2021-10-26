@@ -18,7 +18,7 @@
 
 </div>
 
-<img src="https://img.shields.io/badge/juanpflores_%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white">
+[<img src="https://img.shields.io/badge/juanpflores__%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white">](https://twitter.com/juanpflores_)
 
 <h2><img src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" alt="computer" width="80"> I'm currently ...</h2>
 
