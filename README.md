@@ -1,3 +1,5 @@
+![@juanpflores's Holopin board](https://holopin.io/api/user/board?user=juanpflores)](https://holopin.io/@juanpflores)
+
 <h2><img src="https://thumbs.gfycat.com/AcrobaticMatureGazelle.webp" alt="computer" width="80"> About me </h2>
 
 <div >
