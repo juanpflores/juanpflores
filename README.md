@@ -1,6 +1,6 @@
 [![@juanpflores's Holopin board](https://holopin.io/api/user/board?user=juanpflores)](https://holopin.io/@juanpflores)
 
-<h2><img src="https://thumbs.gfycat.com/AcrobaticMatureGazelle.webp" alt="computer" width="80"> About me </h2>
+<h2>About me </h2>
 
 <div >
   <img src="https://github.com/juanpflores/juanpflores/blob/main/assets/happy-juanpa.gif" align="right" width="300">
@@ -22,7 +22,7 @@
 
 <a href="https://twitter.com/juanpflores_"><img src="https://img.shields.io/badge/juanpflores__%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge"></a>
 
-<h2><img src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" alt="computer" width="80"> I'm currently ...</h2>
+<h2> I'm currently ...</h2>
 
 - 🔭 coding automation projects & relaunching my personal website.
 - 🌱 learning Docker & Shell scripting (Both are SO COOL!)
@@ -35,5 +35,6 @@
 <!-- - 📝 Working with me? Read the [Juan Pa's User Manual](https://link) -->
 
 ## #30NitesOfCode:
-  [Check out my pet!](https://www.codedex.io/@juanpflores/30-nites-of-code)  
-  ![@juanpflores #30NitesOfCode](https://www.codedex.io/api/petStatus?user=juanpflores)
+  [Check out my pet!](https://www.codedex.io/@juanpflores/30-nites-of-code)
+  
+  <img src="https://www.codedex.io/api/petStatus?user=juanpflores" alt="@juanpflores #30NitesOfCode" width="200"/>
