@@ -33,3 +33,7 @@
 
 - 🔬 I have worked on a [couple of papers](https://scholar.google.com/citations?user=QHIRjGUAAAAJ&hl=es&authuser=1)
 <!-- - 📝 Working with me? Read the [Juan Pa's User Manual](https://link) -->
+
+## #30NitesOfCode:
+  [Check out my pet!](https://www.codedex.io/@juanpflores/30-nites-of-code)  
+  ![@juanpflores #30NitesOfCode](https://www.codedex.io/api/petStatus?user=juanpflores)
