@@ -8,14 +8,12 @@
 <ul>
   <li><b>👤 Name: </b> Juan Pablo Flores</li>
   <li><b>😄 Pronouns:</b>  He/Him</li>
-  <li><b>📍 Location:</b> Mexico City 🇲🇽</li>
-  <li><b>💼 Job: </b>Program Manager @ <a href="github.com">GitHub</a></li>
+  <li><b>📍 Location:</b>Seattle </li>
   <li><b>📣 Languages:</b> English & Spanish</li>
 </ul>
 
-<p>I'm Juan Pablo (<i>aka Juan Pa</i>) a computer engineer diving into the world of management. I'm a Program Manager at the GitHub Education Team, 
-  where I support student leaders to build and grow local technical communities in their schools in the <a href="https://education.github.com/experts">🚩 GitHub Campus Experts Program</a>. I'm passionate about building opportunities for students, bridges
-   between different communities, and helping people from diverse backgrounds to code.
+<p>I'm Juan Pablo (<i>aka Juan Pa</i>) a computer engineer diving into the world of management. 
+  where I support student leaders to build and grow local technical communities in their schools in the <a href="https://education.github.com/experts">🚩 GitHub Campus Experts Program</a>. I'm passionate about building opportunities for students, bridges between different communities, and helping people from diverse backgrounds to code.
 </p>
 
 </div>
@@ -26,7 +24,6 @@
 
 - 🔭 coding automation projects & relaunching my personal website.
 - 🌱 learning Docker & Shell scripting (Both are SO COOL!)
-- 📚 Reading: **"The 15 Commitments of Conscious Leadership"**
 - 🎮 playing Elder Scrolls Online ⚔, Cyberpunk 2077 🤖 and Resident Evil 🧟
 
 <h2>Random</h2>
